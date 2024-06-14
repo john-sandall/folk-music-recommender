@@ -17,6 +17,23 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.12.4"
 # Everything below here is alphabetically sorted
+dask = "^2024.6.0"
+dask-ml = "^2024.4.4"
+distributed = "^2024.6.0"
+fsspec = "^2024.6.0"
+ipython = "^8.25.0"
+joblib = "^1.4.2"
+jupyter = "^1.0.0"
+jupyterlab = "^4.2.2"
+numpy = "^1.26.4"
+openai = "^1.34.0"
+pandas = "^2.2.2"
+plotly = "^5.22.0"
+scikit-learn = "^1.5.0"
+torch = "^2.3.1"
+torchaudio = "^2.3.1"
+torchvision = "^0.18.1"
+tpot = "^0.12.2"
 
 [tool.poetry.dev-dependencies]
 # Everything below here is alphabetically sorted

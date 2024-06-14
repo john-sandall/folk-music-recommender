@@ -4,7 +4,8 @@
 *.pyc
 
 # Data
-./data/
+data/
+data/raw/TheSession-data/
 !**/data/**/README.md
 !**/data/**/*.gitkeep
 
